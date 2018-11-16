@@ -1,0 +1,7 @@
+{
+  "name": "sitebuilder.library.test",
+  "version": "1.0.0",
+  "dependencies": {
+    "cross-env": "5.0.5"
+  }
+}
